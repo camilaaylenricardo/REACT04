@@ -1,0 +1,28 @@
+.habilidades {
+    background-color: #384e56;
+    color: #ffffff;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    text-align: center;
+  }
+  
+  .habilidades h2 {
+    font-size: 2.5rem;
+    margin-bottom: 20px;
+  }
+  .habilidades p{
+    font-size: 1.2rem;
+  }
+  .habilidades ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .habilidades li {
+    font-size: 1.5rem;
+    margin: 10px;
+    transition: transform 0.3s ease;
+  }

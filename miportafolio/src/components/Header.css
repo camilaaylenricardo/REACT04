@@ -1,0 +1,31 @@
+.header {
+    background-color: #192838;
+    color: white;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh; /* Ocupa toda la altura de la pantalla */
+    text-align: center;
+    padding: 20px; /* Añadido padding para mejorar el espaciado */
+  }
+  
+  .avatar-container {
+    margin-bottom: 20px; /* Espacio entre el avatar y el título */
+  }
+  
+  .avatar {
+    width: 150px; /* Tamaño del avatar */
+    height: 150px; /* Tamaño del avatar */
+    border-radius: 50%; /* Hace que la imagen sea circular */
+    border: 3px solid #ffffff; /* Borde blanco para destacar la imagen */
+  }
+  
+  .header h1 {
+    font-size: 3rem;
+    margin: 0;
+  }
+  
+  .header p {
+    font-size: 1.5rem;
+  }

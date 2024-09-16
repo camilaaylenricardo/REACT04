@@ -1,0 +1,20 @@
+.sobremi {
+    background-color: #193f48;
+    color: #ffffff;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh; 
+    text-align: center;
+  }
+  
+  .sobremi h2 {
+    font-size: 2.5rem;
+    margin-bottom: 20px;
+  }
+  
+  .sobremi p {
+    font-size: 1.2rem;
+    max-width: 800px;
+  }
